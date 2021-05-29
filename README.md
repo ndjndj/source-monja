@@ -11,10 +11,11 @@
 みんなと共有する？
 
 共有の方法を考える。
-
+Twitterカード
 ## teq
 
 React
 Node.js
+
 
 
